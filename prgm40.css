@@ -1,0 +1,47 @@
+p.one {border-style:dotted;
+border-color:red;}
+
+p.two {border-style:dashed ;
+border-color:green;}
+
+p.three {border-style:ridge;
+border-color:red;}
+margin:25PX 25PX 25PX 25PX;
+text-align:center;
+padding:50px 50px 50px 50px;
+
+
+p.four {border-style:groove;
+border-color:blue;}
+
+p.five {border-style:none;
+border-color:red;}
+
+p.six {border-style:hidden;
+border-color:red;}
+
+p.seven {border-style:solid;
+border-color:red;}
+
+p.eight {border-style:double;
+border-color:red;}
+
+p.nine {border-style:dotted;
+border-color:red;}
+
+p.ten {border-style:dotted;
+border-color:red;}
+ 
+img{
+border-radius:Bpx;
+background:repeat;
+
+}
+p.margin{margin-top:20px;
+border:1px solid #ACAF50;
+margin-bottom:25px;
+margin-bottom:30px;
+margin-left:25px;
+margin-right:25px;
+}
+
